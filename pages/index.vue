@@ -1,8 +1,8 @@
 <template>
-  <p>hello, World.</p>
-  <p>你好，第二次提交。</p>
+  hello, World.
+  你好，第二次提交。
 </template>
-
+<p>Hello</p>
 <script>
 export default {}
 </script>
