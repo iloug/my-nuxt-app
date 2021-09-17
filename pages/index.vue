@@ -1,9 +1,7 @@
 <template>
-  hello, World.
-  你好，第二次提交。
+  <h1>hello, World.</h1>
+  <h2>你好，第二次提交。</h2>
 </template>
-<p>Hello</p>
-<p>Hello</p>
 <script>
 export default {}
 </script>
