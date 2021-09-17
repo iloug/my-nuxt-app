@@ -1,4 +1,4 @@
-# nuxt-ssg-starter
+# nuxt-app
 
 ## Build Setup
 

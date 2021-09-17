@@ -1,10 +1,7 @@
 export default {
-  // Target: https://go.nuxtjs.dev/config-target
-  target: 'static',
-
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'nuxt-ssg-starter',
+    title: 'nuxt-app',
     htmlAttrs: {
       lang: 'en'
     },
@@ -36,6 +33,8 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    // https://go.nuxtjs.dev/bootstrap
+    'bootstrap-vue/nuxt',
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
